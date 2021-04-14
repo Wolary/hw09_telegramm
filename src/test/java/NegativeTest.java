@@ -42,4 +42,9 @@ public class NegativeTest {
     void some8Test() {
         assertTrue(false);
     }
+
+    @Test
+    void some9Test() {
+        assertTrue(false);
+    }
 }
