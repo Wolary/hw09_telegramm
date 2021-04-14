@@ -59,47 +59,45 @@ public class PositiveTest {
     }
 
     @Test
-    void some11Test() {
+    void some12Test() {
         assertTrue(true);
     }
 
     @Test
-    void some11Test() {
+    void some13Test() {
         assertTrue(true);
     }
 
     @Test
-    void some11Test() {
+    void some14Test() {
         assertTrue(true);
     }
 
     @Test
-    void some11Test() {
+    void some15Test() {
         assertTrue(true);
     }
 
     @Test
-    void some11Test() {
+    void some16Test() {
         assertTrue(true);
     }
 
     @Test
-    void some11Test() {
+    void some17Test() {
         assertTrue(true);
     }
 
     @Test
-    void some11Test() {
+    void some18Test() { assertTrue(true); }
+
+    @Test
+    void some19Test() {
         assertTrue(true);
     }
 
     @Test
-    void some11Test() {
-        assertTrue(true);
-    }
-
-    @Test
-    void some11Test() {
+    void some20Test() {
         assertTrue(true);
     }
 }
